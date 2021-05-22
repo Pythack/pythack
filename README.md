@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm a young developer, I am currently working on several projects: 
+I am a young developer. <br/>
+I am currently working on several projects: 
 * Community platform
 * Ex-game feature
 <a href="https://github.com/Pythack">
