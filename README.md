@@ -1,4 +1,8 @@
 # Hi there 👋
+
+I'm a young developer, I am currently working on several projects: 
+* Community platform
+* Ex-game feature
 <a href="https://github.com/Pythack">
   <img src="https://github-readme-stats.vercel.app/api?username=Pythack&show_icons=true&theme=tokyonight">
 </a>
